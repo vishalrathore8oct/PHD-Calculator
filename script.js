@@ -2185,5 +2185,193 @@ function myFunction2() {
 
   // Section-A (+d+a) column-2
 
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + b >= 0 && d + b >= 0 && a + b < 10 && d + b < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + b , d + b) output is correct: =  " + (a + b) + (d + b);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + c >= 0 && d + b >= 0 && a + c < 10 && d + b < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + c , d + b) output is correct: =  " + (a + c) + (d + b);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + d >= 0 && d + b >= 0 && a + d < 10 && d + b < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + d , d + b) output is correct: =  " + (a + d) + (d + b);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + e >= 0 && d + b >= 0 && a + e < 10 && d + b < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + e , d + b) output is correct: =  " + (a + e) + (d + b);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + f >= 0 && d + b >= 0 && a + f < 10 && d + b < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + f , d + b) output is correct: =  " + (a + f) + (d + b);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  // Section-A (+d+a) column-3
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + b >= 0 && d + c >= 0 && a + b < 10 && d + c < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + b , d + c) output is correct: =  " + (a + b) + (d + c);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + c >= 0 && d + c >= 0 && a + c < 10 && d + c < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + c , d + c) output is correct: =  " + (a + c) + (d + c);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + d >= 0 && d + c >= 0 && a + d < 10 && d + c < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + d , d + c) output is correct: =  " + (a + d) + (d + c);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + e >= 0 && d + c >= 0 && a + e < 10 && d + c < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + e , d + c) output is correct: =  " + (a + e) + (d + c);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + f >= 0 && d + c >= 0 && a + f < 10 && d + c < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + f , d + c) output is correct: =  " + (a + f) + (d + c);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  // Section-A (+d+a) column-4
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + b >= 0 && d + e >= 0 && a + b < 10 && d + e < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + b , d + e) output is correct: =  " + (a + b) + (d + e);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + c >= 0 && d + e >= 0 && a + c < 10 && d + e < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + c , d + e) output is correct: =  " + (a + c) + (d + e);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + d >= 0 && d + e >= 0 && a + d < 10 && d + e < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + d , d + e) output is correct: =  " + (a + d) + (d + e);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + e >= 0 && d + e >= 0 && a + e < 10 && d + e < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + e , d + e) output is correct: =  " + (a + e) + (d + e);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + f >= 0 && d + e >= 0 && a + f < 10 && d + e < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + f , d + e) output is correct: =  " + (a + f) + (d + e);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  // Section-A (+d+a) column-5
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + b >= 0 && d + f >= 0 && a + b < 10 && d + f < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + b , d + f) output is correct: =  " + (a + b) + (d + f);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + c >= 0 && d + f >= 0 && a + c < 10 && d + f < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + c , d + f) output is correct: =  " + (a + c) + (d + f);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + d >= 0 && d + f >= 0 && a + d < 10 && d + f < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + d , d + f) output is correct: =  " + (a + d) + (d + f);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + e >= 0 && d + f >= 0 && a + e < 10 && d + f < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + e , d + f) output is correct: =  " + (a + e) + (d + f);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
+    if (a + f >= 0 && d + f >= 0 && a + f < 10 && d + f < 10) {
+      outputContent.innerHTML +=
+        "Formula (a + f , d + f) output is correct: =  " + (a + f) + (d + f);
+    }
+  }
+  outputContent.innerHTML += "<br>";
+  outputContent.innerHTML += "<br>";
+
+  // Section-A (+e+a) column-2
+
   //   This is the end of funtion.
 }
