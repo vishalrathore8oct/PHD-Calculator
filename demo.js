@@ -3497,7 +3497,7 @@ function myFunction2() {
   outputContent.innerHTML += "<br>";
   outputContent.innerHTML += "<br>";
 
-  // Section-A (+b+a) column-1
+  // Section-A (-b+a) column-1
 
   if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
     if (a + b >= 0 && b + a >= 0 && a + b < 10 && b + a < 10) {
