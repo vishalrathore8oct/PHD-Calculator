@@ -4017,51 +4017,51 @@ function myFunction2() {
   // Section-A (-d+a) column-5
 
   if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
-    if (a + b >= 0 && d + f >= 0 && a + b < 10 && d + f < 10) {
+    if (a - b >= 0 && d + f >= 0 && a - b < 10 && d + f < 10) {
       outputContent.innerHTML +=
-        "Formula (a + b , d + f) output is correct: =  " + (a + b) + (d + f);
+        "Formula (a - b , d + f) output is correct: =  " + (a - b) + (d + f);
     }
   }
   outputContent.innerHTML += "<br>";
   outputContent.innerHTML += "<br>";
 
   if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
-    if (a + c >= 0 && d + f >= 0 && a + c < 10 && d + f < 10) {
+    if (a - c >= 0 && d + f >= 0 && a - c < 10 && d + f < 10) {
       outputContent.innerHTML +=
-        "Formula (a + c , d + f) output is correct: =  " + (a + c) + (d + f);
+        "Formula (a - c , d + f) output is correct: =  " + (a - c) + (d + f);
     }
   }
   outputContent.innerHTML += "<br>";
   outputContent.innerHTML += "<br>";
 
   if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
-    if (a + d >= 0 && d + f >= 0 && a + d < 10 && d + f < 10) {
+    if (a - d >= 0 && d + f >= 0 && a - d < 10 && d + f < 10) {
       outputContent.innerHTML +=
-        "Formula (a + d , d + f) output is correct: =  " + (a + d) + (d + f);
+        "Formula (a - d , d + f) output is correct: =  " + (a - d) + (d + f);
     }
   }
   outputContent.innerHTML += "<br>";
   outputContent.innerHTML += "<br>";
 
   if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
-    if (a + e >= 0 && d + f >= 0 && a + e < 10 && d + f < 10) {
+    if (a - e >= 0 && d + f >= 0 && a - e < 10 && d + f < 10) {
       outputContent.innerHTML +=
-        "Formula (a + e , d + f) output is correct: =  " + (a + e) + (d + f);
+        "Formula (a - e , d + f) output is correct: =  " + (a - e) + (d + f);
     }
   }
   outputContent.innerHTML += "<br>";
   outputContent.innerHTML += "<br>";
 
   if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
-    if (a + f >= 0 && d + f >= 0 && a + f < 10 && d + f < 10) {
+    if (a - f >= 0 && d + f >= 0 && a - f < 10 && d + f < 10) {
       outputContent.innerHTML +=
-        "Formula (a + f , d + f) output is correct: =  " + (a + f) + (d + f);
+        "Formula (a - f , d + f) output is correct: =  " + (a - f) + (d + f);
     }
   }
   outputContent.innerHTML += "<br>";
   outputContent.innerHTML += "<br>";
 
-  // Section-A (+e+a) column-2
+  // Section-A (-e+a) column-2
 
   if (a > 0 && b > 0 && c > 0 && d > 0 && e > 0 && f > 0) {
     if (a + b >= 0 && e + b >= 0 && a + b < 10 && e + b < 10) {
